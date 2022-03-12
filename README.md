@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @birkheadc
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-birkheadc/birkheadc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My name is Colby Birkhead.
+I'm an American expat and small business owner, looking to transfer into the realm of software development full-time.
+My main focus at the moment is in developing web applications, particularly on the front-end of those apps, but I have experience in a variety of languages and frameworks.
